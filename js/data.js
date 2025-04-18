@@ -1,4 +1,10 @@
 export default [
+
+  {
+    title: "Namanganiliklar",
+    github: "https://github.com/Javohirbmw/imtihon",
+    vercel: "https://imtihon-nine-psi.vercel.app/",
+  },
   
   {
     title: "coffe strit",
@@ -15,4 +21,5 @@ export default [
     github: "https://github.com/Javohirbmw/garage",
     vercel: "https://garage-peach-two.vercel.app/",
   },
+
 ];
